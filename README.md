@@ -11,5 +11,5 @@ This is a project that I made with my colleague Luca Occhipinti. We make an anal
        *  the first consists to create a network of friends similar to you and your friends, then you can obtain information for each node like clustering coefficient and the relative entropy
        *  the second consists to create a network with your friends, but different centrality measures 
 
-# ATTENTION
-**we don't report our created files for privacy!
+# Attention
+we don't report our created files for privacy!
