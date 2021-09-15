@@ -12,4 +12,4 @@ This is a project that I made with my colleague Luca Occhipinti. In the first pa
        *  in the second you can connect yourself to your friends and these to the mutual friends with you. you can consider different centrality measures before plotting the nodes 
 
 # Attention
-we didn't report our personal files for privacy!
+we didn't report our personal files for privacy! ... a great pleasure for us, is to thank to Stefano Borzi and Alessio Piazza for the actual idea of part of this project. Where takes the foundamentals to the network of friends.
